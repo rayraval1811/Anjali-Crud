@@ -12,8 +12,6 @@
         <label for="">First Name</label>
         <input type="text" name="reg_fname"><br><br>
 
-        
-
         <input type="submit" name="reg_btn">
     </form>
 </body>
